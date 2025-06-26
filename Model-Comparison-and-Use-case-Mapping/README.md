@@ -29,7 +29,7 @@ A command-line tool to compare responses from different types of language models
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/model-comparator-cli.git
+
 cd model-comparator-cli
 2. Install dependencies
 
